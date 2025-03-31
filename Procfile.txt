@@ -1,0 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar 31 22:49:52 2025
+
+@author: Suprava Modak
+"""
+
+web: sh setup.sh && streamlit run prediction.py
